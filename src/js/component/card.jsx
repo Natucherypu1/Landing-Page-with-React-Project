@@ -7,6 +7,11 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Card = () => {
 	return (
 		<div>
+
+
+
+
+			
 			Hello
 		</div>
 	);
