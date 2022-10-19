@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className="footer mt-auto py-3 bg-dark text-white text-center">
 		<p>
-			The ill Nana
+		© The State of QueenNathalie 1990–2022
 		</p>
 	</footer>
   );
