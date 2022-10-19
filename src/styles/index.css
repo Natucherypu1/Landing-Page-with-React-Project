@@ -1,12 +1,24 @@
 
-/* 
-
-    You can write your own styles here...
+body{
     
     
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
+}
+.home{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+.footer{
     
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+    margin-top: 100px;
+    
+    
+    
+}
+.image-container{
+    height:18rem ;
+    width:18rem ;
+}
+.card{
+    width: 18rem;
+}
